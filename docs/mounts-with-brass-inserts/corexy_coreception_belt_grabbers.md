@@ -14,9 +14,9 @@ This is a simple EVA 3 mod that adds 6mm of belt grabber vertically on both side
 
 ## Coreception-compatible Back CoreXY Grabbers/Tensioners
 
-This mod is more specific to the Coreception, moving the rear top belt tensioner up by 4mm.
+This mod is more specific to the Coreception. The belts are closely aligned on the Coreception (4mm closer than on EVA). Here I have opted to rely on external tensioners; the back belt grabbers fasten to one another.
 
-Additionally, the tensioners now use 40mm M3 screws instead of M5, and matching heat set inserts are used instead of M5 lock nuts.
+Additionally, the back belt grabbers now use 40mm M3 screws instead of M5, and matching heat set inserts are used instead of M5 lock nuts.
 
 ## BOM
 
