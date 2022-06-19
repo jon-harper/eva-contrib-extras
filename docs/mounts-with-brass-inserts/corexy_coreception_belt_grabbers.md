@@ -10,7 +10,7 @@ This is two mods in one: the universal front face can be useful to a wider range
 
 ## Universal Front Face
 
-This is a simple EVA 3 mod that adds 6mm of belt grabber vertically on both sides of the front face. No new parts are needed for this mod.
+This is a simple EVA 3 mod that adds 6mm of belt grabber vertically on both sides of the front face. No new parts are needed for this mod, but BLTouch users will need to print the modified BLTouch mount.
 
 ## Coreception-compatible Back CoreXY Grabbers/Tensioners
 
@@ -28,6 +28,7 @@ Additionally, the back belt grabbers now use 40mm M3 screws instead of M5, and m
 | 4  | 2   | face_belt_grabber-coreception-3.0-inserts.stl    | [Yes](stl/face_belt_grabber-coreception-3.0-inserts.stl) |
 | 5  | 1   | back_core_xy_fi-coreception-3.0-inserts.stl     | [Yes](stl/back_core_xy_fi-coreception-3.0-inserts.stl)  |
 | 6  | 2   | core_xy_belt_grabber-coreception-3.0-inserts.stl| [Yes](stl/core_xy_belt_grabber-coreception-3.0-inserts.stl) |
+| 7  | 2   | bl_touch_mount-coreception-3.0-inserts.stl      | [Yes](stl/bl_touch_mount-coreception-3.0-inserts.stl) |
 
 ## Brass Inserts
 
